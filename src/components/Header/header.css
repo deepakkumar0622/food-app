@@ -39,3 +39,28 @@
     font-size: max(1vw,13px);
     border-radius: 50px;
 }
+
+
+@media (max-width:1050px){
+    
+
+    .content{
+        max-width: 45%;
+    }
+}
+
+@media (max-width:750px){
+    
+
+    .content{
+        max-width: 65%;
+    }
+
+    .content p{
+        display: none;
+    }
+
+    .content button{
+        padding: 2vw 4vw;
+    }
+}
