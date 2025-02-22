@@ -66,7 +66,7 @@ Based on industry standards and user expectations, essential features for a food
 
 ---
 
-*Inspired by the [Great Stack YouTube channel](https://www.youtube.com/channel/UCXYZ).*
+*Inspired by the [Great Stack YouTube channel](https://www.youtube.com/@GreatStackDev).*
 
 *Connect and share your thoughts!*
 
