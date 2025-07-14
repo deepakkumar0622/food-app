@@ -61,7 +61,7 @@ Based on industry standards and user expectations, essential features for a food
 - **Intuitive Menu Display**: Clear and organized presentation of food items with detailed descriptions and images. 🍽️
 - **Real-Time Order Tracking**: Allows users to monitor their orders from preparation to delivery. 🛵
 - **Secure Payment Options**: Offers multiple payment methods with robust security measures. 💳
-- **Ratings and Reviews**: Enables users to provide feedback and read others' experiences. ⭐
+- **Ratings and Reviews**: Enables users to provide feedback and read others experiences. ⭐
 - **Push Notifications**: Keeps users informed about order status, promotions, and updates. 🔔
 
 ---
