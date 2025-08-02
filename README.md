@@ -24,7 +24,7 @@ To run this project locally:
    git clone https://github.com/yourusername/food-delivery-app-ui.git
    ```
 
-2. **Navigate to the project directory**:
+2. **Navigate to the project directory**
 
    ```bash
    cd food-delivery-app-ui
